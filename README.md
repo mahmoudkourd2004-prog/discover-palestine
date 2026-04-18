@@ -38,8 +38,6 @@ This project highlights Palestinian cities, heritage, traditional food, clothing
 
 👉 https://username.github.io/discover-palestine/
 
-*(Replace `username` with your GitHub username after publishing)*
-
 ---
 
 ## 📂 Project Structure
