@@ -36,7 +36,7 @@ This project highlights Palestinian cities, heritage, traditional food, clothing
 
 ## 🚀 Live Demo
 
-👉 https://username.github.io/discover-palestine/
+👉(https://mahmoudkourd2004-prog.github.io/discover-palestine/)
 
 ---
 
